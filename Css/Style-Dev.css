@@ -1,0 +1,114 @@
+body{
+    background-image: url('../Img/Matrix.jpg');
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: auto;
+    margin: auto auto;
+    text-align: center;
+}
+.email{
+    color: #000000;
+    font-size: 12px;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px #000000;
+}
+.github{
+    text-decoration: none;
+    color: #000
+}
+.github:hover{
+    color: #39ff14;
+}
+.proyecto{
+    text-decoration: none;
+    color: #000
+}
+.proyecto:hover{
+    color: #39ff14;
+}
+.img{
+    margin: auto auto;
+    width: auto;
+    height: auto;
+}
+img{
+    border-radius: 50%;
+}
+section{
+    margin: auto;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    background-color: #39ff14;
+}
+.cuerpo{
+    background-color: #39ff14;
+    box-shadow: 10px 10px 20px rgba(50, 126, 43, 0.863);
+    text-align: center;
+    margin: auto;
+    border-radius: 25px 25px 25px 25px;
+}
+h1{
+    color: #000000;
+    font-size: 30px;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px #000000;
+}
+h2{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px #000000;
+}
+h3{
+    color: #000000;
+    font-size: 15px;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px #000000;
+}
+.botonF{
+    background-image: url('../Img/Facebook.png');
+    background-size: 135px 54px;
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.botonF:hover{
+    background: rgba(0, 0, 0, 0);
+    color: #000;
+    box-shadow: inset 0 0 0 3px #000;
+}
+.botonI{
+    background-image: url('../Img/Instagram.png');
+    background-size: 132px 54px;
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.botonI:hover{
+    background: rgba(0, 0, 0, 0);
+    color: #000;
+    box-shadow: inset 0 0 0 3px #000;
+}
+.botonX{
+    background-image: url('../Img/X.png');
+    background-size: 75px 54px;
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.botonX:hover{
+    background: rgba(0, 0, 0, 0);
+    color: #000;
+    box-shadow: inset 0 0 0 3px #000;
+}
