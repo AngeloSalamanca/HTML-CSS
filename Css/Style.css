@@ -5,6 +5,12 @@ body{
     background-color: #f0f0f0;
 }
 
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
 .container{
     max-width: 800px;
     margin: 0 auto;
@@ -36,4 +42,23 @@ button[type="submit"]{
     border: none;
     border-radius: 3px;
     cursor: pointer;
+}
+
+.container-alert{
+    text-align: center;
+}
+
+.alert{
+    color: #000;
+    text-decoration: none;
+}
+
+.alert:hover{
+    color: #007bff;
+}
+
+.options{
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 45px;
 }
